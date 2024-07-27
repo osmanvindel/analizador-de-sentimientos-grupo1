@@ -1,2 +1,2 @@
 # consulta-datos-grupo1
-Script para consultar datos a la BBDD
+Script para analizar datos en la BBDD
